@@ -22,6 +22,7 @@ export default {
     sidebar() {
       return this.$store.state.app.sidebar
       // test
+
     }
   }
 }
